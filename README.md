@@ -10,3 +10,5 @@ It is intended for beginners to improve loop logic and pattern recognition.
 
 ## Language
 - C,Java
+Day 1-> solved 2 problems in pattern printing like Diagonal pattern ,(+ Pattern), quite easy for me
+Day 2-> solved 1 problem floyd's triangle.
