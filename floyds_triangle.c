@@ -11,5 +11,5 @@ int main() {
     }
     return 0;
 }
-//solved floyd triangle with any input for size n
+//solved floyd triangle with any input for valid size n//
 //logic was quite easy just the k value increments inside loop
