@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {//steps to reduce to 0 asked in drive
+int main() {//steps to reduce to 0 asked in driv,it was quite a easy level probleem
     int n;
     scanf("%d",&n);
     int count=0;
