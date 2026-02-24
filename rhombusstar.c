@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {//rhombus star pattern,find pattern then easyy to solve
+int main() {//rhombus star pattern,find pattern then easy to solve
     int n;
     scanf("%d",&n);
     for(int i=0;i<n;i++){
